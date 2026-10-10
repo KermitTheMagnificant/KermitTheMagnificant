@@ -19,3 +19,5 @@
 <p>Memory: 12 GB DDR4<br></p>
 <p>Storage: 256 GB SSD<br></p>
 <p>OS: TBD (Probably Fedora)<br></p>
+
+![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
