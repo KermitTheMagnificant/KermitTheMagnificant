@@ -13,3 +13,9 @@
 <p>Memory: 8 GB DDR3<br></p>
 <p>Storage: Some Samsung 500 GB HDD<br></p>
 <p>OS: Ubuntu Server 26.04.1 (Resolute Racoon)<br></p>
+<h3>Computer Specs: CDC-6600</h3>
+<p>This is my laptop, which is an Acer I got off of ebay for like $70. Its named after the first supercomputer of the same name. (It's also still in shipping as of 10/10/26)<br></p>
+<p>CPU: i5-6200U<br></p>
+<p>Memory: 12 GB DDR4<br></p>
+<p>Storage: 256 GB SSD<br></p>
+<p>OS: TBD (Probably Fedora)<br></p>
