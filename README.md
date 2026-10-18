@@ -16,10 +16,10 @@
 <p>Storage: Some Samsung 500 GB HDD<br></p>
 <p>OS: Ubuntu Server 26.04.1 (Resolute Racoon)<br></p>
 <h3>Computer Specs: CDC-6600</h3>
-<p>This is my laptop, which is an Acer I got off of ebay for like $70. Its named after the first supercomputer of the same name. (It's also still in shipping as of 10/10/26)<br></p>
+<p>This is my laptop, which is an Acer I got off of ebay for like $70. Its named after the first supercomputer of the same name.<br></p>
 <p>CPU: i5-6200U<br></p>
 <p>Memory: 12 GB DDR4<br></p>
 <p>Storage: 256 GB SSD<br></p>
-<p>OS: TBD (Probably Fedora)<br></p>
+<p>OS: Fedora 44 Workstation<br></p>
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
