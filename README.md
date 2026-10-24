@@ -11,10 +11,10 @@
 <p>Storage: Samsung 990 Pro 2 TB<br></p>
 <p>OS: Fedora Linux 44 (KDE Plasma)<br></p>
 <h3>Computer Specs: K-1840</h3>
-<p>This is my main 'server', which is a repurposed M78 Thinkcenter (which previously belonged to a relative). It's named after the East German supercomputer of the same name.</p>
+<p>This is my NAS, which is really a repurposed M78 ThinkCenter. I have it currently running OpenMediaVault with a RAID 0 configuration.</p>
 <p>CPU: A4-6300B (Dual Core, 3.7GHz)<br></p>
 <p>Memory: 8 GB DDR3<br></p>
-<p>Storage: Some Samsung 500 GB HDD<br></p>
+<p>Storage: 2x 500 GB HDD.<br></p>
 <p>OS: Ubuntu Server 26.04.1 (Resolute Racoon)<br></p>
 <h3>Computer Specs: CDC-6600</h3>
 <p>This is my laptop, which is an Acer I got off of eBay for like $70. Its named after the first supercomputer of the same name.<br></p>
