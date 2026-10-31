@@ -1,4 +1,8 @@
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KermitTheMagnificant&show_icons=true&locale=en&layout=compact" alt="KermitTheMagnificant" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KermitTheMagnificant&show_icons=true&locale=en" alt="KermitTheMagnificant" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KermitTheMagnificant&" alt="KermitTheMagnificant" /></p>
 
 <h2>Hello!</h2>
 <p>My name is Quasimoto, and I'm a backend developer from Ohio. My primary language is Python, although I have in interest in learning Rust. My main project as of now is PyTools, a collection of software that I made using Python. As of writing this, there are two tools in this colletion, PySpense, an expense tracker, and PyHub, a terminal eye-candy application. I also now have PyLiveTV, which allows you to watch IPTV locally using Python, HTML, and SQLite.</p>
