@@ -27,5 +27,11 @@
 <p>Memory: 12 GB DDR4<br></p>
 <p>Storage: 256 GB SSD<br></p>
 <p>OS: Fedora 44 Workstation<br></p>
+<h3>Computer Specs: Ankaa-2</h3>
+<p>This is my primary server, which is an old Dell Poweredge I got for like 300$. I plan on hopefully buying a GPU for this thing so it can run more than a 9B model (to  which is it is still very slow)<br></p>
+<p>CPU: 2x Intel Xeon X5650 <br></p>
+<p>Memory: 192 GB DDR3<br></p>
+<p>Storage: 6x 1TB HDD<br></p>
+<p>OS: Red Hat Enterprise Linux 9.8<br></p>
 
 ![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
