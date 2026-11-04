@@ -14,7 +14,7 @@
 <p>GPU: Gigabyte GeForce RTX 4070<br></p>
 <p>Memory: G.SKILL Trident 32 GB DDR5<br></p>
 <p>Storage: Samsung 990 Pro 2 TB<br></p>
-<p>OS: Fedora Linux 44 (KDE Plasma)<br></p>
+<p>OS: Fedora Linux 45 (KDE Plasma)<br></p>
 <h3>Computer Specs: K-1840</h3>
 <p>This is my NAS, which is really a repurposed M78 ThinkCenter. I have it currently running OpenMediaVault with a RAID 0 configuration.</p>
 <p>CPU: A4-6300B (Dual Core, 3.7GHz)<br></p>
@@ -28,7 +28,7 @@
 <p>Storage: 256 GB SSD<br></p>
 <p>OS: Fedora 44 Workstation<br></p>
 <h3>Computer Specs: Ankaa-2</h3>
-<p>This is my primary server, which is an old Dell Poweredge I got for like 300$. I plan on hopefully buying a GPU for this thing so it can run more than a 9B model (to  which is it is still very slow)<br></p>
+<p>This is my primary server, which is an old Dell Poweredge I got for like 300$. I plan on hopefully buying a GPU for this thing so it can run more than a 4B model (to  which is it is still very slow). I was mostly looking at the Nvidia Tesla P40, but if you have any recs, reach out!<br></p>
 <p>CPU: 2x Intel Xeon X5650 <br></p>
 <p>Memory: 192 GB DDR3<br></p>
 <p>Storage: 6x 1TB HDD<br></p>
