@@ -26,7 +26,7 @@
 <p>CPU: i5-6200U<br></p>
 <p>Memory: 12 GB DDR4<br></p>
 <p>Storage: 256 GB SSD<br></p>
-<p>OS: Fedora 44 Workstation<br></p>
+<p>OS: Fedora 45 Workstation<br></p>
 <h3>Computer Specs: Ankaa-2</h3>
 <p>This is my primary server, which is an old Dell Poweredge I got for like 300$. I plan on hopefully buying a GPU for this thing so it can run more than a 4B model (to  which is it is still very slow). I was mostly looking at the Nvidia Tesla P40, but if you have any recs, reach out!<br></p>
 <p>CPU: 2x Intel Xeon X5650 <br></p>
