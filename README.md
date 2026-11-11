@@ -1,37 +1,52 @@
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=KermitTheMagnificant&show_icons=true&locale=en&layout=compact" /></p>
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=KermitTheMagnificant&show_icons=true&locale=en" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KermitTheMagnificant&" /></p>
+<h2 data-importer="text" align="left">Hi! I'm Quasimoto.</h2>
 
+###
 
+<p data-importer="text" align="left">I'm a backend developer who specializes in Python. I'm currently, however, learning Rust, and plan to use it in more future projects. My main interests as of right now revolve around Quantum Computing (Using IBM's Qiskit Library) as well as Operating Systems, mostly Linux. Thus, expect most of my future projects to relate to one of those two things!</p>
 
-<h2>Hello!</h2>
-<p>My name is Quasimoto, and I'm a backend developer from Ohio. My primary language is Python, although I have in interest in learning Rust. My main project as of now is PyTools, a collection of software that I made using Python. As of writing this, there are two tools in this colletion, PySpense, an expense tracker, and PyHub, a terminal eye-candy application. I also now have PyLiveTV, which allows you to watch IPTV locally using Python, HTML, and SQLite. I project I plan on starting is a Linux GameJolt Client written in Rust, where you can actually download the games and play them, as well as configure compatibility layers all from the client.</p>
-<h3>Computer Specs: BESM-6</h3>
-<p>This is my main and most powerful computer that I own, and most of what I do is done here. It's named after the 1968 Soviet supercomputer of the same name.<br></p>
-<p>CPU: Ryzen 7 7800X3D<br></p>
-<p>GPU: Gigabyte GeForce RTX 4070<br></p>
-<p>Memory: G.SKILL Trident 32 GB DDR5<br></p>
-<p>Storage: Samsung 990 Pro 2 TB<br></p>
-<p>OS: Fedora Linux 45 (KDE Plasma)<br></p>
-<h3>Computer Specs: K-1840</h3>
-<p>This is my NAS, which is really a repurposed M78 ThinkCenter. I have it currently running OpenMediaVault with a RAID 0 configuration.</p>
-<p>CPU: A4-6300B (Dual Core, 3.7GHz)<br></p>
-<p>Memory: 8 GB DDR3<br></p>
-<p>Storage: 2x 500 GB HDD.<br></p>
-<p>OS: OpenMediaVault 8 (based on Debian)<br></p>
-<h3>Computer Specs: CDC-6600</h3>
-<p>This is my laptop, which is an Acer I got off of eBay for like $70. Its named after the first supercomputer of the same name.<br></p>
-<p>CPU: i5-6200U<br></p>
-<p>Memory: 12 GB DDR4<br></p>
-<p>Storage: 256 GB SSD<br></p>
-<p>OS: Fedora 45 Workstation<br></p>
-<h3>Computer Specs: Ankaa-2</h3>
-<p>This is my primary server, which is an old Dell Poweredge I got for like 300$. I plan on hopefully buying a GPU for this thing so it can run more than a 4B model (to  which is it is still very slow). I was mostly looking at the Nvidia Tesla P40, but if you have any recs, reach out!<br></p>
-<p>CPU: 2x Intel Xeon X5650 <br></p>
-<p>Memory: 192 GB DDR3<br></p>
-<p>Storage: 6x 1TB HDD<br></p>
-<p>OS: Red Hat Enterprise Linux 9.8<br></p>
+###
 
-![Python](https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-%23294172.svg?style=for-the-badge&logo=fedora&logoColor=white)
+<div data-importer="stats" align="center">
+  <img src="https://raw.githubusercontent.com/KermitTheMagnificant/KermitTheMagnificant/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=swift&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/KermitTheMagnificant/KermitTheMagnificant/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=swift&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="30" alt="rust logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" height="30" alt="fedora logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" height="30" alt="redhat logo"  />
+</div>
+
+###
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=KermitTheMagnificant.KermitTheMagnificant&"  />
+</div>
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="221" src="https://media.tenor.com/KGTu46yBCicAAAAM/quasimoto-running.gif"  />
+</div>
+
+###
