@@ -1,8 +1,6 @@
-<div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50"  />
-</div>
-
 ###
+
+<h3 style="text-align: center; margin: 40px;">"If anything deserves a reward, it is social contribution. Creativity can be a social contribution, but only in so far as society is free to use the results. If programmers deserve to be  rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs." - Richard Stallman, <em>The GNU Manifesto</em>, 1985</h3>
 
 <h2 data-importer="text" align="left">Hi! I'm Quasimoto.</h2>
 
@@ -47,3 +45,4 @@
 </div>
 
 ###
+
