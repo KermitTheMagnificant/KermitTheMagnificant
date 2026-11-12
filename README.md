@@ -10,6 +10,12 @@
 
 <p data-importer="text" align="left">I'm a backend developer who specializes in Python. I'm currently, however, learning Rust, and plan to use it in more future projects. My main interests as of right now revolve around Quantum Computing (Using IBM's Qiskit Library) as well as Operating Systems, mostly Linux. Thus, expect most of my future projects to relate to one of those two things!</p>
 
+<h3>Current Project Highlight</h3>
+
+###
+
+<p data-importer="text" align="left">The project that I'm currently working on that I would like to highlight is "GRNU" (pronounced gr-knew), which I plan to rewrite as much as I can of GNU in Rust. It's in very early development, but check it out!</p>
+
 ###
 
 <img data-importer="snake" src="https://raw.githubusercontent.com/KermitTheMagnificant/KermitTheMagnificant/snake-output/snake.svg" alt="Snake animation" />
