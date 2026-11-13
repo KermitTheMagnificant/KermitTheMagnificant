@@ -49,7 +49,11 @@
 <h2>Wall of Photos</h2>
 
 <div data-importer="image" align="center>
-  <img data-importer="image height="252" src="assets/THISISFORYOU.avif" />
+  <img data-importer="image" src="https://www.nba.com/cavaliers/photogallery/top-photos-gsw-finals-2016?slide=5&lightbox=true" />
 </div>
 
 ###
+
+<img src="assets/THISISFORYOU.avif" alt="Project Screenshot" width="750">
+<em>June 21st, 2016, Oakland, California</em>
+
