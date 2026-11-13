@@ -46,3 +46,10 @@
 
 ###
 
+<h2>Wall of Photos</h2>
+
+<div data-importer="image" align="center>
+  <img data-importer="image height="252" src="assets/THISISFORYOU.avif" />
+</div>
+
+###
