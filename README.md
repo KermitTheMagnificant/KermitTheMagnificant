@@ -48,12 +48,11 @@
 
 <h2>Wall of Photos</h2>
 
-<div data-importer="image" align="center>
-  <img data-importer="image" src="https://www.nba.com/cavaliers/photogallery/top-photos-gsw-finals-2016?slide=5&lightbox=true" />
-</div>
-
 ###
-
+<em>June 21st, 2016, Oakland, California<br></em>
 <img src="assets/THISISFORYOU.avif" alt="Project Screenshot" width="750">
-<em>June 21st, 2016, Oakland, California</em>
+
+<em>December 15th, 2024, Shanghai, China<br></em>
+<img src="assets/donk.jpg" alt="Project Screenshot" width="750">
+
 
