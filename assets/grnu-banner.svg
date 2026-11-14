@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="GRNU — GNU, rewritten in Rust">
+<title>GRNU — GNU, rewritten in Rust</title>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/>
+  </linearGradient>
+  <linearGradient id="rust" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0" stop-color="#f74c00"/><stop offset="0.5" stop-color="#ffb366"/><stop offset="1" stop-color="#f74c00"/>
+    <animateTransform attributeName="gradientTransform" type="translate" values="-1 0;1 0" dur="4s" repeatCount="indefinite"/>
+  </linearGradient>
+  <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
+    <path d="M32 0H0V32" fill="none" stroke="#30363d" stroke-width="0.6" opacity="0.5"/>
+  </pattern>
+  <linearGradient id="scan" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#f74c00" stop-opacity="0"/><stop offset="0.5" stop-color="#f74c00" stop-opacity="0.10"/><stop offset="1" stop-color="#f74c00" stop-opacity="0"/>
+  </linearGradient>
+  <clipPath id="termclip"><rect x="645" y="75" width="518" height="214"/></clipPath>
+  <clipPath id="frame"><rect width="1200" height="320" rx="14"/></clipPath>
+</defs>
+<style>
+  .mono { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace; font-size:14px; }
+  .big  { font-family: 'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Menlo,Consolas,'DejaVu Sans Mono',monospace;
+          font-size:150px; font-weight:800; fill:url(#rust); opacity:0; animation: drop .7s cubic-bezier(.2,.8,.2,1.2) forwards; }
+  .l0 { animation-delay:.1s } .l1 { animation-delay:.25s } .l2 { animation-delay:.4s } .l3 { animation-delay:.55s }
+  @keyframes drop { from { opacity:0; transform: translateY(-30px); } to { opacity:1; transform: translateY(0); } }
+  .sub  { opacity:0; animation: fade 1s ease 1s forwards; }
+  .sub2 { opacity:0; animation: fade 1s ease 1.4s forwards; }
+  @keyframes fade { to { opacity:1; } }
+  .cursor { animation: blink 1s steps(1) infinite; }
+  @keyframes blink { 50% { opacity:0; } }
+  .spin  { transform-origin: 590px 250px; animation: spin 18s linear infinite; }
+  .spin2 { transform-origin: 622px 212px; animation: spin 12s linear infinite reverse; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .scan { animation: scan 6s linear infinite; }
+  @keyframes scan { from { transform: translateY(-120px); } to { transform: translateY(320px); } }
+  .pulse { animation: pulse 2s ease-in-out infinite; }
+  @keyframes pulse { 50% { opacity:.35; } }
+</style>
+<g clip-path="url(#frame)">
+  <rect width="1200" height="320" fill="url(#bg)"/>
+  <rect width="1200" height="320" fill="url(#grid)"/>
+  <rect class="scan" width="1200" height="120" fill="url(#scan)"/>
+
+  <!-- gears -->
+  <g opacity="0.18" fill="none" stroke="#f74c00" stroke-width="2">
+    <g class="spin"><path d="M638.0,250.0 L647.5,257.6 L646.0,265.0 L634.3,268.4 L631.6,274.0 L636.0,285.3 L631.0,291.0 L619.2,288.1 L614.0,291.6 L612.2,303.6 L605.0,306.0 L596.3,297.6 L590.0,298.0 L582.4,307.5 L575.0,306.0 L571.6,294.3 L566.0,291.6 L554.7,296.0 L549.0,291.0 L551.9,279.2 L548.4,274.0 L536.4,272.2 L534.0,265.0 L542.4,256.3 L542.0,250.0 L532.5,242.4 L534.0,235.0 L545.7,231.6 L548.4,226.0 L544.0,214.7 L549.0,209.0 L560.8,211.9 L566.0,208.4 L567.8,196.4 L575.0,194.0 L583.7,202.4 L590.0,202.0 L597.6,192.5 L605.0,194.0 L608.4,205.7 L614.0,208.4 L625.3,204.0 L631.0,209.0 L628.1,220.8 L631.6,226.0 L643.6,227.8 L646.0,235.0 L637.6,243.7 Z"/><circle cx="590" cy="250" r="20"/></g>
+    <g class="spin2"><path d="M639.0,212.0 L643.6,216.3 L642.3,220.4 L636.1,221.4 L634.0,224.0 L634.2,230.3 L630.4,232.3 L625.3,228.7 L622.0,229.0 L617.7,233.6 L613.6,232.3 L612.6,226.1 L610.0,224.0 L603.7,224.2 L601.7,220.4 L605.3,215.3 L605.0,212.0 L600.4,207.7 L601.7,203.6 L607.9,202.6 L610.0,200.0 L609.8,193.7 L613.6,191.7 L618.7,195.3 L622.0,195.0 L626.3,190.4 L630.4,191.7 L631.4,197.9 L634.0,200.0 L640.3,199.8 L642.3,203.6 L638.7,208.7 Z"/><circle cx="622" cy="212" r="7"/></g>
+  </g>
+
+  <!-- title -->
+  <text x="70" y="182" class="big l0">G</text><text x="188" y="182" class="big l1">R</text><text x="306" y="182" class="big l2">N</text><text x="424" y="182" class="big l3">U</text>
+  <text x="76" y="222" class="mono sub" fill="#8b949e" font-size="18" style="font-size:18px">/ɡr-nuː/  ·  "gr-knew"</text>
+  <text x="76" y="256" class="mono sub2" fill="#e6edf3" style="font-size:19px">GNU, rewritten in <tspan fill="#f74c00" font-weight="700">Rust</tspan>.</text>
+  <g class="sub2">
+    <rect x="76" y="274" width="184" height="26" rx="13" fill="none" stroke="#f74c00" stroke-opacity=".6"/>
+    <circle cx="94" cy="287" r="4.5" fill="#f74c00" class="pulse"/>
+    <text x="106" y="292" class="mono" fill="#f0883e" style="font-size:13px">early development</text>
+  </g>
+
+  <!-- terminal window -->
+  <g>
+    <rect x="644" y="40" width="520" height="250" rx="10" fill="#0b0f14" stroke="#30363d"/>
+    <rect x="644" y="40" width="520" height="34" rx="10" fill="#161b22"/>
+    <rect x="644" y="62" width="520" height="12" fill="#161b22"/>
+    <line x1="644" y1="74" x2="1164" y2="74" stroke="#30363d"/>
+    <circle cx="666" cy="57" r="6" fill="#ff5f57"/><circle cx="686" cy="57" r="6" fill="#febc2e"/><circle cx="706" cy="57" r="6" fill="#28c840"/>
+    <text x="904" y="62" text-anchor="middle" class="mono" fill="#8b949e" style="font-size:13px">quasimoto@grnu: ~/grnu</text>
+    <g clip-path="url(#termclip)"><text x="668" y="112" class="mono"><tspan fill="#f74c00">$</tspan><tspan fill="#e6edf3"> cargo build --release</tspan></text><text x="668" y="136" class="mono" fill="#3fb950" xml:space="preserve">   Compiling grnu-coreutils v0.1.0</text><text x="668" y="160" class="mono" fill="#3fb950" xml:space="preserve">    Finished release [optimized]</text><text x="668" y="184" class="mono"><tspan fill="#f74c00">$</tspan><tspan fill="#e6edf3"> grnu echo &quot;hello from rust&quot;</tspan></text><text x="668" y="208" class="mono" fill="#c9d1d9" xml:space="preserve">hello from rust</text><text x="668" y="232" class="mono"><tspan fill="#f74c00">$</tspan><tspan fill="#e6edf3"> grnu ls --color src/</tspan></text><text x="668" y="256" class="mono" fill="#f0883e" xml:space="preserve">cat.rs  echo.rs  ls.rs  wc.rs  yes.rs</text><rect x="666" y="95" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.0429;0.0482;0.0536;0.0589;0.0643;0.0696;0.0750;0.0804;0.0857;0.0911;0.0964;0.1018;0.1071;0.1125;0.1179;0.1232;0.1286;0.1339;0.1393;0.1446;0.1500;0.1554;0.9429;1.0000" values="666.0;682.9;691.4;699.8;708.2;716.7;725.1;733.6;742.0;750.5;759.0;767.4;775.9;784.3;792.8;801.2;809.6;818.1;826.5;835.0;843.5;851.9;860.4;860.4;666.0"/></rect><rect x="666" y="119" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1857;0.9429;1.0000" values="666.0;957.3;957.3;666.0"/></rect><rect x="666" y="143" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.2357;0.9429;1.0000" values="666.0;940.4;940.4;666.0"/></rect><rect x="666" y="167" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.3000;0.3054;0.3107;0.3161;0.3214;0.3268;0.3321;0.3375;0.3429;0.3482;0.3536;0.3589;0.3643;0.3696;0.3750;0.3804;0.3857;0.3911;0.3964;0.4018;0.4071;0.4125;0.4179;0.4232;0.4286;0.4339;0.4393;0.4446;0.9429;1.0000" values="666.0;682.9;691.4;699.8;708.2;716.7;725.1;733.6;742.0;750.5;759.0;767.4;775.9;784.3;792.8;801.2;809.6;818.1;826.5;835.0;843.5;851.9;860.4;868.8;877.2;885.7;894.1;902.6;911.0;911.0;666.0"/></rect><rect x="666" y="191" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.4571;0.9429;1.0000" values="666.0;796.8;796.8;666.0"/></rect><rect x="666" y="215" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.5143;0.5196;0.5250;0.5304;0.5357;0.5411;0.5464;0.5518;0.5571;0.5625;0.5679;0.5732;0.5786;0.5839;0.5893;0.5946;0.6000;0.6054;0.6107;0.6161;0.6214;0.9429;1.0000" values="666.0;682.9;691.4;699.8;708.2;716.7;725.1;733.6;742.0;750.5;759.0;767.4;775.9;784.3;792.8;801.2;809.6;818.1;826.5;835.0;843.5;851.9;851.9;666.0"/></rect><rect x="666" y="239" width="560" height="24" fill="#0b0f14"><animate attributeName="x" dur="14.0s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.6571;0.9429;1.0000" values="666.0;982.6;982.6;666.0"/></rect><text x="668" y="280" class="mono" fill="#f74c00">$</text><rect class="cursor" x="684.9" y="265" width="8" height="17" fill="#f74c00"/></g>
+  </g>
+</g>
+</svg>
