@@ -37,6 +37,10 @@ Expect most of my future projects to relate to one of those two things!
 
 ## Current project: [GRNU](https://github.com/KermitTheMagnificant/GRNU)
 
+<p align="center">
+  <img src="grnu-banner.svg" alt="GRNU — GNU, rewritten in Rust" width="100%">
+</p>
+
 *(pronounced "gr-knew")* is my attempt to rewrite as much of GNU as I can in Rust.
 It's in very early development, but [check it out](https://github.com/KermitTheMagnificant/GRNU)!
 
