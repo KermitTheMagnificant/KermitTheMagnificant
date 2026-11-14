@@ -1,3 +1,9 @@
+<div align="center">
+  <img src="assets/banner.svg" width="100%" alt="QUASIMOTO.DEV animated banner" />
+</div>
+
+<br>
+
 <h1 align="center">Hi, I'm Quasimoto</h1>
 
 <p align="center">
