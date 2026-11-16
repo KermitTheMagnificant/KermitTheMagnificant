@@ -44,6 +44,8 @@ Expect most of my future projects to relate to one of those two things!
 *(pronounced "gr-knew")* is my attempt to rewrite as much of GNU as I can in Rust.
 It's in very early development, but [check it out](https://github.com/KermitTheMagnificant/GRNU)!
 
+Currently, I plan on adding GNU's coreutils package, which as of right now just include ls (w/ -a and -l tags, written as rls) and pwd (No tags, written as rpwd).
+
 ## Tech I use
 
 <div align="center">
