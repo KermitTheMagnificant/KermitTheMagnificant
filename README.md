@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/VSCodium-2F80ED?style=for-the-badge&logo=vscodium&logoColor=white" alt="VSCodium" />
   <img src="https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora" />
   <img src="https://img.shields.io/badge/Gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white" alt="GIMP" />
-  <img src="https://img.shields.io/badge/GPLv3-FFFFFF?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Unlicense-FFFFFF?style=for-the-badge&logo=unlicense&logoColor=#808080" />
 </p>
 
 <br>
